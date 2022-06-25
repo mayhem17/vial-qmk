@@ -1,12 +1,12 @@
-# m17/m17tkl/beta
+# m17/m17tkl
 
-![m17/m17tkl](https://imgur.com/a/0QFiWqu)
+![m17tkl](https://i.imgur.com/XRiTXTf.png)
 
-*A short description of the keyboard/project*
+A simple 88/87 tkl layout replacement (jst only)
 
 * Keyboard Maintainer: [mayhem17](https://github.com/mayhem17)
-* Hardware Supported: m17tkl pcb revalpha/beta  *The PCBs, controllers supported*
-* Hardware Availability: Currently unavailable *Links to where you can find this hardware*
+* Hardware Supported: m17tkl pcb
+* Hardware Availability: Currently unavailable
 
 Make example for this keyboard (after setting up your build environment):
 
