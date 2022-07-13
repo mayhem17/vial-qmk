@@ -33,7 +33,7 @@
 #define MATRIX_COLS 18
 
 #define MATRIX_COL_PINS { B3, B2, B1, F7, B0, E6, F0, F1, F5, C6, B6, B5, F4, B4, D7, D4, B7, D5 }
-#define MATRIX_ROW_PINS { D2, D1, B0, F6, D6, D3 }
+#define MATRIX_ROW_PINS { D2, D1, D0, F6, D6, D3 }
 #define DIODE_DIRECTION COL2ROW
 
 #define LED_CAPS_LOCK_PIN C7
